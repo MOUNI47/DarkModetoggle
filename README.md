@@ -1,4 +1,4 @@
-Project Overview
+<h1> Project Overview </h1>
 
 This project is a simple React application that demonstrates how to implement a Dark Mode Toggle feature using React Hooks. It focuses on understanding components, props, useState, and dynamic styling.
 
