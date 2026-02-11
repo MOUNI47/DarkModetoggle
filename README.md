@@ -2,7 +2,7 @@
 
 This project is a simple React application that demonstrates how to implement a Dark Mode Toggle feature using React Hooks. It focuses on understanding components, props, useState, and dynamic styling.
 
-Features
+<h3> Features </h3>
 
 ✅ Reusable ThemeCard component
 
@@ -16,7 +16,7 @@ Features
 
 ✅ Fully centered card using Flexbox
 
-Technologies Used
+<h3> Technologies Used </h3>
 
 React JS
 
@@ -26,7 +26,7 @@ JavaScript (ES6)
 
 CSS / Inline Styling
 
-How It Works
+<h3> How it works </h3> 
 
 The ThemeCard component uses useState to manage the theme.
 
@@ -36,7 +36,7 @@ Based on the state, background and text colors change dynamically.
 
 The card is centered using Flexbox in App.jsx.
 
-Learning Outcomes
+<h3> Learning Outcomes </h3>
 
 Understanding React functional components
 
@@ -48,7 +48,6 @@ Handling events in React
 
 Applying conditional styling
 
-Author
-
+<h3> Author </h3>
 Mamatha D
 Engineering Student | React Learner
